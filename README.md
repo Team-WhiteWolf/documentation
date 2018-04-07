@@ -1,3 +1,3 @@
 # Documentation of the WhiteWolf project
 
-![diagramm](./Main Diagram.svg)
+![Alt text](./Main%20Diagram.svg)
