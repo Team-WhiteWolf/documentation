@@ -1,5 +1,16 @@
 # Message Type Overview
 
+## Basic Message Structure
+```
+{
+	"trackingID": "",
+	"sender": "",
+	"reciever": "",
+	"type": "",
+	"payload": ""
+}
+```
+
 
 ## Permission-Service
 
