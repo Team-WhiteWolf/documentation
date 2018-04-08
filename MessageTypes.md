@@ -71,11 +71,7 @@
 ```
 {
 	"id": "The id of the icon to get",
-	"subscriber": [
-		{
-			"recipient": "module to be notified with the loaded icon",
-			"type": "the type of message the recipient expects"
-		}
-	]
+	"recipient": "module to be notified with the loaded icon",
+	"type": "the type of message the recipient expects"
 }
 ```
