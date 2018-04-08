@@ -25,31 +25,41 @@
  | Add_Permission 	   | No       | Permission-Model 	| Used to create new permissions 		     |
 
 ### UserPermission-Model
+```
 {
 	"userId" : "The id of the user",
 	"permissionId" : "The id of the permission"
 }
+```
 
 ### User-Model
+```
 {
 	"userId" : "The id of the user"
 }
+```
 
 ### GroupPermission-Model
+```
 {
 	"groupId" : "The id of the group",
 	"permissionId" : "The id of the permission"
 }
+```
 
 ### Group-Model
+```
 {
 	"groupId" : "The id of the group"
 }
+```
 
 ### Permission-Model
+```
 {
 	"permissionText" : "Text what the permission does"
 }
+```
 
 
 ## Icon-Service
